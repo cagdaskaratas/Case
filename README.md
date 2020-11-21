@@ -1,2 +1,2 @@
-# Kize
-Kize website
+# Cagdas Karatas
+Cagdas Karatas Case
