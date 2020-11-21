@@ -585,6 +585,7 @@ max-width: 860px;
 .soccer-table .stats-teams-title{
     padding-left: 15px;
     font-size: 16px;
+    font-weight: 400;
 }
 .soccer-table .stats-title-right{
     padding: 10px 0;

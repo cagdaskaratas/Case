@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfac376d-6cd3-4268-84a0-9d3b3f960d38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/app.1495df9d.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/chunk-vendors.ab91ceed.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/facebook.49f5495c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/instagram.36e36bb5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/kize-logo.2de2d5cd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/twitter.0b8e44d7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/app.ee0cab00.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/app.ee0cab00.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/chunk-vendors.759bc590.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/chunk-vendors.759bc590.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605920891120</updated>
-      <workItem from="1605920892349" duration="693000" />
+      <workItem from="1605920892349" duration="868000" />
     </task>
     <servers />
   </component>
