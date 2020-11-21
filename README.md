@@ -1,2 +1,2 @@
-# Case
-Cagdas Karatas Case
+# Kize
+Kize website
